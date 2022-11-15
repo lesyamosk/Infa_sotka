@@ -107,7 +107,7 @@ class List:
     def __iter__(self):
         return List_Iter(self)
 
-    def save (self, name="list.bin"):
+    def save (self, name="list3.bin"):
         with open (name, mode="wb") as f:
             pickle.dump(self, f)
 
