@@ -25,13 +25,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lesya\OneDrive\Документы\GitHub\Infa_sotka\lesson2_homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AB1">
+  <component name="RunManager" selected="Python.numpy">
+    <configuration name="игра" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Infa_sotka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/игра.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="AB1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Infa_sotka" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decor3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Infa_sotka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Dino PyGame" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8_homework/decor3.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Dino PyGame/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_comparer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Infa_sotka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,32 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8_homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/дз Юдаев" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8_homework/time_comparer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="time_comparer_with_lru_cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Infa_sotka" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8_homework/time_comparer_with_lru_cache.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/дз Юдаев/numpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numpy" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.игра" />
         <item itemvalue="Python.AB1" />
         <item itemvalue="Python.AB2" />
-        <item itemvalue="Python.time_comparer_with_lru_cache" />
-        <item itemvalue="Python.time_comparer" />
-        <item itemvalue="Python.decor3" />
       </list>
     </recent_temporary>
   </component>
@@ -159,25 +160,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668537327556">
+    <state width="1515" height="192" key="GridCell.Tab.0.bottom" timestamp="1684227456384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1668537327556" />
-    <state width="1515" height="192" key="GridCell.Tab.0.bottom" timestamp="1670092188686">
+    <state width="1515" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684227456384" />
+    <state width="1515" height="192" key="GridCell.Tab.0.center" timestamp="1684227456384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670092188686" />
-    <state width="1515" height="192" key="GridCell.Tab.0.center" timestamp="1670092188686">
+    <state width="1515" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1684227456384" />
+    <state width="1515" height="192" key="GridCell.Tab.0.left" timestamp="1684227456384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670092188686" />
-    <state width="1515" height="192" key="GridCell.Tab.0.left" timestamp="1670092188686">
+    <state width="1515" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1684227456384" />
+    <state width="1515" height="192" key="GridCell.Tab.0.right" timestamp="1684227456384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670092188686" />
-    <state width="1515" height="192" key="GridCell.Tab.0.right" timestamp="1670092188686">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670092188686" />
+    <state width="1515" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1684227456384" />
   </component>
 </project>
